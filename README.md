@@ -82,7 +82,5 @@ jwt_login_auth/
 
 🙋‍♂️ Author & Contact
 👨‍💻 Pratik Tiwari
-
 GitHub: @PratikTiwari05
-
-Email: pratik12122005@gmail.com (replace with your actual email if needed)
+Email: pratik12122005@gmail.com 
